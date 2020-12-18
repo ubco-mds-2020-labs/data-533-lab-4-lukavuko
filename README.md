@@ -16,7 +16,10 @@
     - [x] At least four methods should have ~100% coverage. Provide screenshots showing the coverage reports
 - [x] [1 mark] Your package README should contain a passing build stamp (see Resources).
 - [x] [2 marks] Have a Git history to demonstrates that the group members contributed equally.
-- [ ] [1 mark] Publish the package (i.e., upload the package to PyPi) and add the link to the README file.
+- [x] [1 mark] Publish the package (i.e., upload the package to PyPi) and add the link to the README file.
+
+### Link to PyPi package:
+https://test.pypi.org/project/Mortgage-Package/
 
 ## Objective
 1.	Understanding how to set-up continuous integration  
